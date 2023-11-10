@@ -35,3 +35,9 @@ function App() {
 export default App;
 
 //assignment:never go less than 0 or above 20
+//question of video 8
+//setCounter(prevcounter=>prevcounter+1)
+//setCounter(prevcounter=>prevcounter+1)
+//setCounter(prevcounter=>prevcounter+1)
+//setCounter(prevcounter=>prevcounter+1)
+//incresed by 4
