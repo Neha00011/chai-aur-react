@@ -79,10 +79,10 @@ function App() {
               defaultChecked={charAllowed}
               id="characterInput"
               onChange={() => {
-                setnumAllowed((prev) => !prev);
+                setcharAllowed((prev) => !prev);
               }}
             />
-            <label htmlFor="characterInput">Numbers</label>
+            <label htmlFor="characterInput">characters</label>
           </div>
         </div>
       </div>
